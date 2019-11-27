@@ -1,6 +1,6 @@
 {
     "name": "make-code_arcade_github_test",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
